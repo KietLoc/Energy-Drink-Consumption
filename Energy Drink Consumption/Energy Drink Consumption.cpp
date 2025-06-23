@@ -8,7 +8,7 @@ double calcEDrinker(int surveyedP, double eDR) //Calculate buyers of one or more
 
 double calcCEDrinker(int eDrinker, double citrusEDR) //Calculate e-drinkers that likes citrus-flavored drinks
 {
-        return eDrinker * citrusEDR;
+    return eDrinker * citrusEDR;
 };
 
 int main()
